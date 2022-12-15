@@ -18,7 +18,7 @@ import io
 
 install_requires = [
     "google-auth-oauthlib >= 0.3.0, < 1.0.0",
-    "google-api-core == 2.10.1",
+    "google-api-core == 2.10.2",
     "googleapis-common-protos >= 1.56.4, < 2.0.0",
     # NOTE: Source code for grpcio and grpcio-status exist in the same
     # grpc/grpc monorepo and thus these two dependencies should always
